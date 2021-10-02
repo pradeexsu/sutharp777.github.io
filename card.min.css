@@ -12,7 +12,7 @@
     --text-primary: #333;
     --text-secondary: #555;
     --text-third: #000;
-    --text-cv: #1a53ff
+    --text-cv: blueviolet;
 }
 
 .theme--dark {
@@ -23,7 +23,7 @@
     --text-primary: white;
     --text-secondary: #6b8cae;
     --text-third: #777;
-    --text-cv: #ef5350
+    --text-cv: greenyellow;
 }
 
 input[type=checkbox] {
